@@ -24,7 +24,7 @@ Highcharts.chart('container-perbandingan', {
         }
     },
     tooltip: {
-        valueSuffix: 'Kendaraan'
+        valueSuffix: 'Kendaraan.'
     },
     plotOptions: {
         series: {
