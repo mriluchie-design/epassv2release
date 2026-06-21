@@ -30,19 +30,138 @@
 
             <div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
 			<div class="row">
-								
+								<div class="col-lg-3">
+												<div class="kt-portlet kt-portlet--height-fluid-full kt-iconbox kt-iconbox--danger kt-iconbox--animate-slower">
+											<div class="kt-portlet__body">
+												<div class="kt-iconbox__body">
+											<div class="row">
+												<div class="col-lg-3">
+													<div class="kt-section__content">
+															<a href="#" class="kt-media">
+																<img src="../assets/img/users/100_15.jpg" alt="image" style="max-width:100px !important;height:auto">
+															</a>
+														</div>
+												</div>
+											<div class="col-lg-9">
+											<div class="name" style="font-size:1rem">
+												Muhammad Nasrullah, S.Kom
+</div>
+											<span style="font-size:.875rem; color:#374163; text-transform:italic">Direktur Utama</span>
+											<div class="deskripsi-pegawai">
+											
+											
+										</div>
+										<div class="kt-separator kt-separator--border-solid-2 kt-separator--space-lg kt-separator--portlet-fit"></div>
+										<div class="row mt-6">
+											<div class="col-lg-5" style="font-size:.955rem; color:#374163; text-transform:italic">
+												Absen Masuk
+											</div>
+											<div class="col-lg-7" >
+												<button type="button" class="btn btn-success btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Lihat Detail">08:00:00 WITA</button>
+											</div>
+										</div>
+										<div><br></div>
+										<div class="row mt-6">
+											<div class="col-lg-5" style="font-size:.955rem; color:#374163; text-transform:italic">
+												Absen Pulang
+											</div>
+											<div class="col-lg-7">
+												<button type="button" class="btn btn-danger btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Lihat Detail">Belum Absen</button>
+											</div>
+										</div>
+										
+										
+											</div>
+											</div>
+												
+													</div>
+													</div>
+										</div>
+										
 
 							<!--end:: Portlet-->
-									
+									<div class="kt-space-20"></div>
 
 									<!--begin:: Widgets/Outbound Bandwidth-->
-									
+									<div class="kt-portlet kt-portlet--fit kt-portlet--head-lg kt-portlet--head-overlay kt-portlet--skin-solid kt-portlet--height-fluid-full">
+										<div class="kt-portlet__head kt-portlet__head--noborder kt-portlet__space-x">
+											<div class="kt-portlet__head-label">
+												<h3 class="kt-portlet__head-title">
+													Permintaan Bantuan
+												</h3>
+											</div>
+											
+										</div>
+										<div class="kt-portlet__body kt-portlet__body--fit">
+											<div class="kt-widget17">
+												<div class="kt-widget17__visual kt-widget17__visual--chart kt-portlet-fit--top kt-portlet-fit--sides" style="background-color: #0961ae">
+													<div class="kt-widget17__chart" style="height:120px;">
+														<canvas id="kt_chart_activities"></canvas>
+													</div>
+												</div>
+												<div class="kt-widget17__stats">
+													<div class="kt-widget17__items">
+														<div class="kt-widget17__item">
+															<div class="row mt-6">
+											<div class="col-lg-8" style="font-size:.955rem; color:#374163; text-transform:italic">
+												<span class="kt-badge kt-badge--dark kt-badge--md kt-badge--inline">GATE - 1</span><hr>
+											
+																<span class="btn btn-twitter btn-sm">MASUK</span>&nbsp;<span class="btn btn-label-brand btn-sm">MOBIL - 1</span> 
+														
+											</div>
+											
+											<div class="col-lg-4" style="margin-top:15px;" >
+												<button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#modal_bantuan" data-html="true">Menunggu</button>
+											</div>
+										</div>
+										
+										
+														</div>
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+													</div>
+													
+													
+													<div class="kt-widget17__items">
+														
+														
+														
+														<div class="kt-widget17__item">
+															<div class="row mt-6">
+											<div class="col-lg-8" style="font-size:.955rem; color:#374163; text-transform:italic">
+												<span class="kt-badge kt-badge--unified-success kt-badge--md kt-badge--inline">GATE - 2</span><hr>
+											
+																<span class="btn btn-label-warning btn-sm">KELUAR</span>&nbsp;<span class="btn btn-label-brand btn-sm">MOBIL - 1</span> 
+														
+											</div>
+											
+											<div class="col-lg-4" style="margin-top:15px;" >
+												<button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#modal_bantuan" data-html="true">Menunggu</button>
+											</div>
+										</div>
+										
+										
+														</div>
+														
+														
+														
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
 									
 
 									<!--end:: Widgets/Outbound Bandwidth-->
-							
-								
-								
+								</div>
 								
 								<div class="col-xl-9">
 
@@ -250,128 +369,30 @@
 
 									<!--end:: Widgets/Activity-->
 								</div>
-								<div class="col-xl-3">
 
-									<!--begin:: Widgets/Activity-->
-									<div class="kt-portlet kt-portlet--fit kt-portlet--head-lg kt-portlet--head-overlay kt-portlet--skin-solid kt-portlet--height-fluid">
-										<div class="kt-portlet__head kt-portlet__head--noborder kt-portlet__space-x">
-											<div class="kt-portlet__head-label">
-												<h3 class="kt-portlet__head-title">
-													Permintaan Bantuan
-												</h3>
-											</div>
-											<div class="kt-portlet__head-toolbar">
-												<a href="#" class="btn btn-label-light btn-sm dropdown-toggle" data-toggle="dropdown">
-													Hari ini
-												</a>
-												<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-													<ul class="kt-nav">
-														<li class="kt-nav__item">
-															<a href="#" class="kt-nav__link">
-																<i class="kt-nav__link-icon flaticon-event-calendar-symbol"></i>
-																<span class="kt-nav__link-text">Bulan ini</span>
-															</a>
-														</li>
-														<li class="kt-nav__item">
-															<a href="#" class="kt-nav__link">
-																<i class="kt-nav__link-icon flaticon-event-calendar-symbol"></i>
-																<span class="kt-nav__link-text">Tahun ini</span>
-															</a>
-														</li>
-														<li class="kt-nav__item">
-															<a href="#" class="kt-nav__link">
-																<i class="kt-nav__link-icon fa fa-chart-bar"></i>
-																<span class="kt-nav__link-text">Keseluruhan</span>
-															</a>
-														</li>
-														
-														
-													</ul>
-												</div>
-											</div>
-										</div>
-										<div class="kt-portlet__body kt-portlet__body--fit">
-											<div class="kt-widget17">
-												<div class="kt-widget17__visual kt-widget17__visual--chart kt-portlet-fit--top kt-portlet-fit--sides" style="background-color: #0961ae">
-													<div class="kt-widget17__chart" style="height:120px;">
-														<canvas id="kt_chart_activities"></canvas>
-													</div>
-												</div>
-												<div class="kt-widget17__stats">
-													<div class="kt-widget17__items">
-														<div class="kt-widget17__item">
-															<div class="row mt-6">
-											<div class="col-lg-8" style="font-size:.955rem; color:#374163; text-transform:italic">
-												<span class="kt-badge kt-badge--dark kt-badge--md kt-badge--inline">GATE - 1</span><hr>
-											
-																<span class="btn btn-twitter btn-sm">MASUK</span>&nbsp;<span class="btn btn-label-brand btn-sm">MOBIL - 1</span> 
-														
-											</div>
-											
-											<div class="col-lg-4" style="margin-top:15px;" >
-												<button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#modal_bantuan" data-html="true">Menunggu</button>
-											</div>
-										</div>
-										
-										
-														</div>
-														
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													</div>
-													<div class="kt-widget17__items">
-														
-														
-														
-														
-														
-														
-													</div>
-													<div class="kt-widget17__items">
-														
-														
-														
-														
-														
-													</div>
-													<div class="kt-widget17__items">
-														
-														
-														
-														<div class="kt-widget17__item">
-															<div class="row mt-6">
-											<div class="col-lg-8" style="font-size:.955rem; color:#374163; text-transform:italic">
-												<span class="kt-badge kt-badge--unified-success kt-badge--md kt-badge--inline">GATE - 2</span><hr>
-											
-																<span class="btn btn-label-warning btn-sm">KELUAR</span>&nbsp;<span class="btn btn-label-brand btn-sm">MOBIL - 1</span> 
-														
-											</div>
-											
-											<div class="col-lg-4" style="margin-top:15px;" >
-												<button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#modal_bantuan" data-html="true">Menunggu</button>
-											</div>
-										</div>
-										
-										
-														</div>
-														
-														
-														
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
+							<!--End::Section-->
 
-									<!--end:: Widgets/Activity-->
-								</div>
+							
+
+						
+						</div>
+			<div class="row">
+								
+
+							<!--end:: Portlet-->
+									
+
+									<!--begin:: Widgets/Outbound Bandwidth-->
+									
+									
+
+									<!--end:: Widgets/Outbound Bandwidth-->
+							
+								
+								
+								
+								
+								
 								
 										
 
