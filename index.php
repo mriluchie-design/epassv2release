@@ -232,7 +232,7 @@
 										<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 <a href="#" class="btn btn-outline-brand btn-sm">
-														<i class="fa fa-calculator"></i>Parking Management
+														<i class="fa fa-calculator"></i>Management
 													</a>
 											</div>
 											
