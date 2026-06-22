@@ -1964,44 +1964,44 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -2255,44 +2255,44 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -2546,44 +2546,44 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -2837,44 +2837,44 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -3141,48 +3141,48 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -3449,48 +3449,48 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -3757,7 +3757,7 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
@@ -3766,39 +3766,39 @@
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -4065,48 +4065,48 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -4360,44 +4360,44 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -4651,12 +4651,12 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
@@ -4664,31 +4664,31 @@
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -4942,44 +4942,44 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -5233,44 +5233,44 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -5537,48 +5537,48 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -5845,48 +5845,48 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -6153,48 +6153,48 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
@@ -6461,48 +6461,48 @@
 											<div class="kt-widget6">
 												<div class="kt-widget6__body">
 												<div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 													<div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-4px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-5px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 <div class="kt-widget6__item" style="margin-top:-3px;">
-														<a href="report-maintenance-add.php" class="btn btn-label-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
+														<a href="#" class="btn btn-label-danger btn-icon btn-sm" data-toggle="modal" data-target="#modal_maintenance" data-original-title="Maintenance" data-html="true"><i class="la la-bell"></i></a>
 														
 													</div>
 
