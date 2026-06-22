@@ -13,13 +13,13 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Form Permohonan Surat Keterangan Kerja
+											Detail Permohonan Surat Keterangan Kerja
 									</h3>
 
 								</div>
 								<div class="kt-subheader__toolbar">
 									<div class="dropdown dropdown-inline" ddata-placement="left">
-											<a href="pegawai-surat-keterangan-kerja.php" class="btn btn-label-brand btn-sm" data-toggle="dropdown" onclick="goBack()">
+											<a href="#" class="btn btn-label-brand btn-sm" data-toggle="dropdown" onclick="goBack()">
 												<i class="flaticon-reply"></i> Kembali</button>
 <script>
 function goBack() {
@@ -28,18 +28,11 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
-									
+											&nbsp;
 
 
 										</div>
-										<div class="btn-group">
-				<button type="button" class="btn btn-success">
-					<i class="fa fa-check-circle"></i>
-					<span class="kt-hidden-mobile">Simpan</span>
-				</button>
-				
-				
-			</div>
+										
 										</div>
 										</div>
 						</div>
@@ -65,72 +58,120 @@ function goBack() {
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
 
                     <div class="kt-portlet__body">
-                      <div class="row">
-								<div class="col-xl-8">
+<div class="row">
+								
+										<div class="col-xl-4">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Permohonan</div><br><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                        
+
+                        <div class="col-lg-6">
+                          <label>ID Permohonan :</label>
+                         <input type="text" class="form-control form-control-sm"  placeholder="003/PSKB/XII/2022" disabled>
+                        </div>
+
+                        <div class="col-lg-6">
+                          <label class="">Tanggal Permohonan :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="12 Oktober 2019">
+                        </div>
+						 
+                      </div>
+ <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+<div class="form-group row">
+                        <div class="col-lg-12">
+                          <label>No. Surat Keterangan Bekerja :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="003/SKB/XII/2022" disabled>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+<div class="form-group row">
+                        
+                        <div class="col-lg-12">
+                          <label class="">Tujuan Permohonan :</label>
+                          <textarea class="form-control" id="exampleTextarea" rows="2" disabled></textarea>
+                        </div>
+                      </div>
+                      </div>
+                      </div>
+                     
+					  
+					
+							<!--end:: Portlet-->
+
+									
+										</div>
+										<div class="col-xl-8">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Permohonan</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pegawai Pemohon</div><br><br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
-                        <div class="col-lg-4">
+                        <div class="col-lg-6">
                           <label>Nama Pegawai :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
                         </div>
-
-                        <div class="col-lg-2">
+<div class="col-lg-3">
                           <label>NIP Pegawai :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
                         </div>
 
-                        <div class="col-lg-2">
-                          <label>Kantor :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
-                        </div>
-						 <div class="col-lg-4">
-                          <label>Tipe Pegawai :</label>
+                        
+						 <div class="col-lg-3">
+                          <label>Status Pegawai :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pegawai Tetap">
                         </div>
-                      </div>
-                      <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                        </div>
+						 
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 					  <div class="form-group row">
-                       <div class="col-lg-4">
-                          <label class="">Department :</label>
+<div class="col-lg-6">
+                          <label class="">Departemen :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerja Sama">
                       </div>
                         </div>
-                        <div class="col-lg-4">
+<div class="col-lg-6">
                           <label class="">Bagian :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan">
                       </div>
                         </div>
-                        <div class="col-lg-4">
+                        </div>
+
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+					  <div class="form-group row">
+<div class="col-lg-6">
                           <label class="">Jabatan :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Pemetaan dan Pengembangan">
                       </div>
                         </div>
+
+<div class="col-lg-6">
+                          <label>Kantor :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
+                        </div>
                       </div>
-					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
+                      
+                       
                         
-                        <div class="col-lg-4">
-                          <label class="">Waktu Permohonan :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="12 Oktober 2019 - 09:00 WITA">
-                        </div>
-                        <div class="col-lg-8">
-                          <label class="">Tujuan Permohonan :</label>
-                          <textarea class="form-control" id="exampleTextarea" rows="4"></textarea>
-                        </div>
-                      </div>
+					  
+
                       </div>
                     </div>
 							<!--end:: Portlet-->
 
 									
 										</div>
+										
+										
+										
+										
 
 
 								
@@ -138,6 +179,20 @@ function goBack() {
 
 									<!--end::Portlet-->
 								</div>
+                      <div class="row">
+								
+										
+										
+										
+										
+
+
+								
+                        
+
+									<!--end::Portlet-->
+								</div>
+								
 								</div>
 								
 								</div>

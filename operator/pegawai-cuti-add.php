@@ -28,13 +28,13 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
-											&nbsp;
+										
 
 
 										</div>
 										<div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
+				<button type="button" class="btn btn-success">
+					<i class="fa fa-check-circle"></i>
 					<span class="kt-hidden-mobile">Simpan</span>
 				</button>
 				
@@ -119,7 +119,7 @@ function goBack() {
                         <div class="col-lg-3">
                           <label>Jenis Cuti :</label>
                       <select class="form-control kt-selectpicker" data-live-search="true">
-                              <option data-content="<a href='#' class='btn btn-sm m-button-add'><i class='fa fa-plus-circle'></i> Tambah Data</a>" class="select-option-add" value="add"></option>
+                              
 							  <option value="2">Cuti alasan penting</option>
                               <option value="3">Cuti bersalin</option>
                               <option value="4">Cuti besar</option>
@@ -127,6 +127,7 @@ function goBack() {
                               <option value="6">Cuti sakit</option>
                               <option value="7" selected>Cuti tahunan</option>
                               <option value="12">Cuti Menikah</option>
+							  <option data-content="<a href='#' class='btn btn-sm m-button-add'><i class='fa fa-plus-circle'></i> Tambah Data</a>" class="select-option-add" value="add"></option>
                           </select>
                         </div>
                         <div class="col-lg-3">

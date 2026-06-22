@@ -24,22 +24,29 @@ License: You must have a valid license purchased only from themeforest(the above
 										</span>
 										&nbsp;
 										&nbsp;
-											Surat Perintah Lembur
+											Cetak Surat Pengalaman Kerja
 									</h3>
-								
+								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#0961ae">
+											Muhammad Nasrullah,S.Kom </span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+
+										</form>
+									</div>
+
 								</div>
 								<div class="kt-subheader__toolbar">
-									<div class="dropdown dropdown-inline" data-placement="left">
-											<a href="#" class="btn btn-label-brand btn-sm" data-toggle="dropdown" onclick="goBack()">
-												<i class="flaticon-reply"></i> Kembali
-                        <script>
+								<a href="#.php" class="btn btn-label-brand btn-sm" data-toggle="dropdown" onclick="goBack()">
+												<i class="flaticon-reply"></i> Kembali</button>
+<script>
 function goBack() {
   window.history.back();
 }
 </script>
+												<!--<i class="flaticon2-plus"></i>-->
 											</a>
-											
-										</div>
+											<div>&nbsp;</div>
 			<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
 				<i class="fa fa-print"></i> Export Data</button>
 			</a>
@@ -67,133 +74,77 @@ function goBack() {
 						</div>
 
 							<div class="tab-content" style="background:#f2f3f8;overflow:scroll;height:auto">
-							<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
-								<div class="bg-white w-50 ml-auto mr-auto">
+				<div class="tab-pane active" id="kt_tabs_1_1" role="tabpanel">
+					<div class="bg-white w-50 ml-auto mr-auto mt-3">
 						
-						<table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:100px;">
-							<tr>
-								<th colspan="4" class="text-center"><span style="font-family: Roboto; font-size: 13px;"><u>SURAT PERINTAH LEMBUR</u></span><span style="text-align: center"></span><br />
-								  <span style="font-family: Roboto; font-size: 13px; margin-bottom:3rem">
-														<b>Nomor : [NOMOR]/LEMBUR/[BULAN-ROMAWI]/[TAHUN]</b></span>
-						      <span style="text-align: center"></span></th>
-							</tr>
-							<tr>
-							  <td colspan="4">&nbsp;</td>
-							  <td colspan="4">&nbsp;</td>
-							  <td colspan="4">&nbsp;</td>
-							  <td colspan="4">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td valign="top">Pemberi Perintah</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top" style="text-align: center">:</td>
-							  <td width="444" valign="top">Oklan Zulkifli, SE</td>
-  </tr>
-							<tr>
-							  <td valign="top">NIP</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top" style="text-align: center">:</td>
-							  <td valign="top">000 000 001</td>
-  </tr>
-							<tr>
-							  <td width="123" valign="top">Jabatan</td>
-							  <td width="4" valign="top">&nbsp;</td>
-							  <td width="11" valign="top" style="text-align: center">:</td>
-							  <td valign="top">Direktur Utama</td>
+						<table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:100px; text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
+  <tr>
+    <td colspan="7" style="text-align: center"><u><b>SURAT PENGALAMAN KERJA</b></u></td>
   </tr>
   <tr>
-							  <td width="123" valign="top">Kantor</td>
-							  <td width="4" valign="top">&nbsp;</td>
-							  <td width="11" valign="top" style="text-align: center">:</td>
-							  <td valign="top">Pusat</td>
-  </tr>
-							<tr>
-							  <td colspan="4" valign="top">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td colspan="4" valign="top" style="text-align: center"><b>MEMERINTAHKAN</b></td>
-  </tr>
-							<tr>
-							  <td valign="top" style="text-align: left">Kepada</td>
-							  <td valign="top" style="text-align: center">&nbsp;</td>
-							  <td valign="top" style="text-align: center">:</td>
-							  <td valign="top" style="text-align: center">&nbsp;</td>
-  </tr>
-  </table>
-  <div><span>&nbsp;</span>
-  <table align="center" border="1" cellpadding="1" style="text-align:justify; position:relative; top:100px; line-height:1.5; font-family: Roboto; font-size: 13px;">
-							<tr>
-								<th width="33" class="text-center" style="text-align: center">No</th>
-								<th width="230" class="text-center" style="text-align: center">Nama Pegawai</th>
-								<th width="90" class="text-center" style="text-align: center">NIP</th>
-								<th width="300" class="text-center" style="text-align: center">Jabatan</th>
-							</tr>
-							<tr>
-							  <td style="text-align: right">1&nbsp;</td>
-							  <td style="text-align: left">&nbsp;Oklan Zulkifli, SE</td>
-							  <td style="text-align: center">000 000 002</td>
-							  <td style="text-align: left">&nbsp;Direktur Utama</td>
-  </tr>
- <tr>
-							  <td style="text-align: right">2&nbsp;</td>
-							  <td style="text-align: left">&nbsp;Deddy Rafsanjani, S.Sos</td>
-							  <td style="text-align: center">000 000 003</td>
-							  <td style="text-align: left">&nbsp;Direktur Umum</td>
+    <td colspan="7" style="text-align: center">Nomor : [NOMOR]/[PENGALAMAN]/[BULAN-ROMAWI]/[TAHUN]</td>
   </tr>
   <tr>
-							  <td style="text-align: right">3&nbsp;</td>
-							  <td style="text-align: left">&nbsp;Muhammad Ramadhan Lerrick, ST</td>
-							  <td style="text-align: center">000 000 007</td>
-							  <td style="text-align: left">&nbsp;Direktur Operasional</td>
+    <td colspan="7" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-							  <td style="text-align: right">4&nbsp;</td>
-							  <td style="text-align: left">&nbsp;Akmal Baharuddin</td>
-							  <td style="text-align: center">000 000 004</td>
-							  <td style="text-align: left">&nbsp;Direktur Keuangan</td>
+    <td colspan="7" style="text-align: left">Yang bertanda tangan dibawah ini menerangkan bahwa :</td>
   </tr>
   <tr>
-							  <td style="text-align: right">5&nbsp;</td>
-							  <td style="text-align: left">&nbsp;Nursiah, S.Kom</td>
-							  <td style="text-align: center">000 000 005</td>
-							  <td style="text-align: left">&nbsp;Direktur Pengembangan Usaha dan Kerjasama</td>
+    <td style="text-align: right">&nbsp;</td>
+    <td valign="top">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="4">&nbsp;</td>
   </tr>
-  </table>
-  <div><span>&nbsp;</span>
-  <table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:100px; text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
-							<tr>
-							  <td valign="top">Untuk</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top" style="text-align: center">:</td>
-							  <td width="444" valign="top">Instalasi E-Pass Pelabuhan Balikpapan</td>
+  <tr>
+    <td style="text-align: right">&nbsp;</td>
+    <td valign="top">Nama</td>
+    <td>:</td>
+    <td width="435" colspan="4">Khaeriah Djamaludin, SH</td>
   </tr>
-							<tr>
-							  <td valign="top">Hari</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top" style="text-align: center">:</td>
-							  <td valign="top">Sabtu</td>
+  <tr>
+    <td style="text-align: right">&nbsp;</td>
+    <td valign="top">NIP</td>
+    <td>:</td>
+    <td colspan="4">238230923015</td>
   </tr>
-							<tr>
-							  <td width="123" valign="top">Tanggal</td>
-							  <td width="4" valign="top">&nbsp;</td>
-							  <td width="11" valign="top" style="text-align: center">:</td>
-							  <td valign="top">21 Desember 2022</td>
+  <tr>
+    <td width="40" style="text-align: right">&nbsp;</td>
+    <td width="77" valign="top">Alamat.</td>
+    <td width="30">:</td>
+    <td colspan="4">Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
   </tr>
-							<tr>
-							  <td valign="top">Waktu</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top" style="text-align: center">:</td>
-							  <td valign="top">17:30 - 22:00 WITA</td>
+</table>
+<br>
+<table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:100px; text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
+  <tr>
+    <td colspan="8" style="text-align: justify">Adalah benar pernah bekerja pada <strong>[Nama-Perusahaan]</strong>  terhitung sejak tanggal<strong> [Tanggal-Mulai-Kerja]</strong> hingga <strong>[Tanggal-Resign]</strong> dengan jabatan sebagai <strong>[Nama-Jabatan]</strong>. Selama bekerja di perusahaan kami, yang bersangkutan telah bekerja dengan baik dalam mengerjakan tugas dan tanggung jawabnya serta tidak pernah terlibat dalam tindakan yang merugikan perusahaan.</td>
   </tr>
-							<tr>
-							  <td colspan="4" valign="top">&nbsp;</td>
+  <tr>
+    <td width="12" style="text-align: right">&nbsp;</td>
+    <td width="22" valign="top">&nbsp;</td>
+    <td width="123" valign="top">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="407" colspan="4">&nbsp;</td>
   </tr>
-							<tr>
-							  <td colspan="4" valign="top">Demikian surat perintah lembur ini dibuat untuk digunakan sebagaimana mestinya.</td>
+</table>
+<table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:100px; text-align:justify; line-height:1.5; font-family: Roboto; font-size: 12px;">
+  <tr>
+    <td colspan="8" style="text-align: justify">Demikian surat keterangan ini dibuat dengan sebenar-benarnya untuk dipergunakan sebagaimana mestinya.</td>
   </tr>
-  </table>
-   <div><span>&nbsp;</span>
-  <table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:100px; text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
+  <tr>
+    <td width="12" style="text-align: right">&nbsp;</td>
+    <td width="22" valign="top">&nbsp;</td>
+    <td width="123" valign="top">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="407" colspan="4">&nbsp;</td>
+  </tr>
+</table><br>
+
+
+								
+
+   <table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:100px; text-align:left; line-height:1.5; font-family: Roboto; font-size: 13px;">
 							<tr>
 							  <td width="3" valign="top">&nbsp;</td>
 							  <td width="3" valign="top">&nbsp;</td>
@@ -214,8 +165,8 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td width="262"><p>&nbsp;</p></td>
 							  <td width="6" >&nbsp;</td>
-							  <td width="31" >&nbsp;</td>
-							  <td width="217">[Tempat, Tanggal Bulan Tahun]</td>
+							  <td width="31" rowspan="3" style="text-align: right"></td>
+							  <td width="217" style="text-align: left">[Tempat, Tanggal Bulan Tahun]</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -227,8 +178,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">[Nama-Perusahaan]</td>
+							  <td valign="top" style="text-align: left">[Nama-Perusahaan]</td>
   </tr>
 							
 							<tr>
@@ -242,7 +192,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -255,7 +205,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+							  <td valign="top" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -268,7 +218,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -281,7 +231,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top">[Nama-Pejabat-Penandatangan]</td>
+							  <td valign="top" style="text-align: left">[Nama-Penandatangan]</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -294,7 +244,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top">[Jabatan-Penandatangan]</td>
+							  <td valign="top" style="text-align: left">[Jabatan-Penandatangan]</td>
   </tr>
 							<tr>
 							  <td colspan="11" valign="top">&nbsp;</td>
@@ -302,42 +252,27 @@ function goBack() {
 							<tr>
 							  <td colspan="11" valign="top">Tembusan :</td>
   </tr>
-							
 							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
 							  <td valign="top">1.</td>
-							  <td colspan="7" valign="top">Direktur Utama</td>
+							  <td colspan="10" valign="top">Direktur Utama</td>
   </tr>
 							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
 							  <td valign="top">2.</td>
-							  <td colspan="7" valign="top">Direktur Umum</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">3.</td>
-							  <td colspan="7" valign="top">Arsip</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td colspan="7" valign="top">&nbsp;</td>
+							  <td colspan="10" valign="top">Direktur Umum </td>
   </tr>
 							
+							<tr>
+							  <td valign="top">3.</td>
+							  <td colspan="10" valign="top">Arsip</td>
+  </tr>
 							
 							<tr>
 							  <td colspan="11" valign="top">&nbsp;</td>
   </tr>
+							
+							
   </table>
-  <table align="center" class="footnote-1" width="650px" style="margin-top:150px; margin-bottom:20px; padding-top:5px; padding-bottom:20px;">
+  <table align="center" class="footnote-1" width="650px" style="margin-top:250px; margin-bottom:20px; padding-top:5px; padding-bottom:20px;">
         <thead>
             <tr><th></th>
             <th></th>
@@ -381,13 +316,17 @@ function goBack() {
 
         </tbody>
     </table>
-	
-  
 					</div>
-					</div>
-					</div>
-					</div>
-					</div>
+
+					
+				</div>
+								</div>
+
+								<!--End:: App Content-->
+							</div>
+
+							<!--End::App-->
+						</div>
 
 <?php require '../layouts/footer.php' ?>
 <?php require '../layouts/foot.php' ?>

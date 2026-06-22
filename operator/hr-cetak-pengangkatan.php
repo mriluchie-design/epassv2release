@@ -24,12 +24,12 @@ License: You must have a valid license purchased only from themeforest(the above
 										</span>
 										&nbsp;
 										&nbsp;
-											Cetak Perjanjian Kontrak Pegawai
+											Cetak SK Pegawai Tetap
 									</h3>
 								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
-										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#0961ae">
-											Nama Pegawai </span>
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Viana Lamuda </span>
 										<form class="kt-margin-l-20" id="kt_subheader_search_form">
 
 										</form>
@@ -46,7 +46,7 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
-										
+											<div>&nbsp;</div>
 			<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
 				<i class="fa fa-print"></i> Export Data</button>
 			</a>
@@ -77,7 +77,6 @@ function goBack() {
 				<div class="tab-pane active" id="kt_tabs_1_1" role="tabpanel">
 					<div class="bg-white w-50 ml-auto mr-auto mt-3">
 						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
-						
 						
 						
 						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
