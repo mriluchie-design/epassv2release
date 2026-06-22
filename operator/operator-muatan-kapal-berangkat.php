@@ -154,16 +154,7 @@ function goBack() {
     		                        </span>
     		                    </div>
                         </div>
-						<div class="col-lg-1" >
-                          <label style="color:#a2050c">Gol :</label>
-                          <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="2">III</option>
-                                      <option value="2">IV</option>
-									  <option data-content="<a href='#' class='btn btn-sm m-button-add'><i class='fa fa-plus-circle'></i> Tambah Data</a>" class="select-option-add" value="add"></option>
-                                  </select>
-                        </div>
+						
 						<div class="col-lg-3" >
                           <label style="color:#a2050c">Kendaraan :</label>
                           <select class="form-control kt-selectpicker" data-live-search="true">
