@@ -230,11 +230,8 @@
 								<div class="row">
 								
 								
-								<div class="col-xl-4">
-
-									<!--begin:: Widgets/Inbound Bandwidth-->
-									<!--begin:: Widgets/Support Cases-->
-									<div class="kt-portlet kt-portlet--height-fluid">
+								<div class="col-lg-4">
+										<div class="kt-portlet kt-portlet--height-fluid-full">
 										<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<h3 class="kt-portlet__head-title">
@@ -242,50 +239,20 @@
 												</h3>
 											</div>
 											
+											
 										</div>
 										<div class="kt-portlet__body">
-											<div class="kt-widget16">
-												
-												<div class="kt-widget16__stats">
-													<div class="kt-widget16__visual">
-														<div id="kt_chart_support_tickets" style="height: 160px; width: 160px;">
-														</div>
-													</div>
-													<div class="kt-widget16__legends">
-														<div class="kt-widget16__legend">
-															<span class="kt-widget16__bullet kt-bg-info"></span>
-															<span class="kt-widget16__stat">Pegawai Tetap</span>
-														</div>
-														<div class="kt-widget16__legend">
-															<span class="kt-widget16__bullet kt-bg-danger"></span>
-															<span class="kt-widget16__stat">Calon Pegawai</span>
-														</div>
-														<div class="kt-widget16__legend">
-															<span class="kt-widget16__bullet kt-bg-success"></span>
-															<span class="kt-widget16__stat">Pegawai Kontrak</span>
-														</div>
-														
-														<div class="kt-widget16__legend">
-															<span class="kt-widget16__bullet kt-bg-warning"></span>
-															<span class="kt-widget16__stat">Pegawai Honor</span>
-														</div>
-													</div>
-												</div>
-											</div>
+											<figure class="highcharts-figure">
+											    <div id="container-pegawai"></div>
+											</figure>
 										</div>
 									</div>
-
-									<!--end:: Widgets/Support Stats-->
-
-									
-
-									
-								</div>
+									</div>
 								<div class="col-xl-4">
 
 									
 									<!--begin:: Widgets/Outbound Bandwidth-->
-									<div class="kt-portlet kt-portlet--fit kt-portlet--head-noborder kt-portlet--height-fluid-full">
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet--head-noborder kt-portlet--height-fluid-full">
 										<div class="kt-portlet__head kt-portlet__space-x">
 											<div class="kt-portlet__head-label">
 												<h3 class="kt-portlet__head-title">
@@ -327,13 +294,13 @@
 																</div>
 																
 																<div class="kt-notification__item-time">
-																Ultah Ke : 35 - Lahir 22 Januari 1987
+																Ultah Ke : 35 
 																</div>
 																<div class="kt-notification__item-time">
-																Jabatan : Head Of IT - Divisi : Bagian Umum
+																Jabatan : IT Director & Business Transformation
 																</div>
 															</div>
-																<div onclick="window.location='#';" class="btn btn btn-outline-danger btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																<div onclick="window.location='#';" class="btn btn btn-outline-brand btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																		<i class="fa fa-gift"></i>
 																	</div>
 														</a>
@@ -350,13 +317,13 @@
 																</div>
 																
 																<div class="kt-notification__item-time">
-																Ultah Ke : 35 - Lahir 22 Januari 1987
+																Ultah Ke : 35
 																</div>
 																<div class="kt-notification__item-time">
-																Jabatan : Head Of IT - Divisi : Bagian Umum
+																Jabatan : IT Director & Business Transformation
 																</div>
 															</div>
-																<div onclick="window.location='#';" class="btn btn btn-outline-danger btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																<div onclick="window.location='#';" class="btn btn btn-outline-brand btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																		<i class="fa fa-gift"></i>
 																	</div>
 														</a>
@@ -373,13 +340,13 @@
 																</div>
 																
 																<div class="kt-notification__item-time">
-																Ultah Ke : 35 - Lahir 22 Januari 1987
+																Ultah Ke : 35
 																</div>
 																<div class="kt-notification__item-time">
-																Jabatan : Head Of IT - Divisi : Bagian Umum
+																Jabatan : IT Director & Business Transformation
 																</div>
 															</div>
-																<div onclick="window.location='#';" class="btn btn btn-outline-danger btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																<div onclick="window.location='#';" class="btn btn btn-outline-brand btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																		<i class="fa fa-gift"></i>
 																	</div>
 														</a>
@@ -404,13 +371,13 @@
 																</div>
 																
 																<div class="kt-notification__item-time">
-																Ultah Ke : 35 - Lahir 22 Januari 1987
+																Ultah Ke : 35
 																</div>
 																<div class="kt-notification__item-time">
-																Jabatan : Head Of IT - Divisi : Bagian Umum
+																Jabatan : IT Director & Business Transformation
 																</div>
 															</div>
-																<div onclick="window.location='#';" class="btn btn btn-outline-danger btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																<div onclick="window.location='#';" class="btn btn btn-outline-brand btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																		<i class="fa fa-gift"></i>
 																	</div>
 														</a>
@@ -427,13 +394,13 @@
 																</div>
 																
 																<div class="kt-notification__item-time">
-																Ultah Ke : 35 - Lahir 22 Januari 1987
+																Ultah Ke : 35
 																</div>
 																<div class="kt-notification__item-time">
-																Jabatan : Head Of IT - Divisi : Bagian Umum
+																Jabatan : IT Director & Business Transformation
 																</div>
 															</div>
-																<div onclick="window.location='#';" class="btn btn btn-outline-danger btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																<div onclick="window.location='#';" class="btn btn btn-outline-brand btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																		<i class="fa fa-gift"></i>
 																	</div>
 														</a>
@@ -450,13 +417,13 @@
 																</div>
 																
 																<div class="kt-notification__item-time">
-																Ultah Ke : 35 - Lahir 22 Januari 1987
+																Ultah Ke : 35
 																</div>
 																<div class="kt-notification__item-time">
-																Jabatan : Head Of IT - Divisi : Bagian Umum
+																Jabatan : IT Director & Business Transformation
 																</div>
 															</div>
-																<div onclick="window.location='#';" class="btn btn btn-outline-danger btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																<div onclick="window.location='#';" class="btn btn btn-outline-brand btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																		<i class="fa fa-gift"></i>
 																	</div>
 														</a>
@@ -484,7 +451,7 @@
 																	2 hrs ago
 																</div>
 															</div>
-															<div onclick="window.location='index.php';" class="btn btn btn-outline-danger btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+															<div onclick="window.location='index.php';" class="btn btn btn-outline-brand btn-elevate  btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="fa fa-eye"></i>
 																</div>
 														</a>
@@ -623,7 +590,7 @@
 								<div class="col-xl-4">
 
 									<!--begin:: Widgets/Inbound Bandwidth-->
-									<div class="kt-portlet kt-portlet--fit kt-portlet--head-noborder kt-portlet--height-fluid-full">
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet--head-noborder kt-portlet--height-fluid-full">
 										<div class="kt-portlet__head kt-portlet__space-x">
 											<div class="kt-portlet__head-label">
 												<h3 class="kt-portlet__head-title">
@@ -1292,10 +1259,16 @@
 																<div class="kt-notification__item-time">
 																	3 Jam yang lalu - 002/20-S.Kep.Dir/PERUMDA-PMR/XI/2022
 																</div>
+																
+																
 															</div>
+															
 														</a>
+														
 														<a href="#" class="kt-notification__item">
+														
 															<div class="kt-notification__item-icon">
+															
 																<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon kt-svg-icon--brand">
 																	<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 																		<rect x="0" y="0" width="24" height="24" />
@@ -2466,8 +2439,13 @@
 							<!--End::App-->
 						</div>
 
-<?php require '../layouts/footer.php' ?>
+<?php require '../layouts-index/footer.php' ?>
 <!--begin:: Script tambahan -->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
 <script src="../assets/js/pages/dashboard.js" type="text/javascript"></script>
+<script src="../assets/js/chart/highchart-pegawai.js" type="text/javascript"></script>
 <!--end:: Script tambahan -->
-<?php require '../layouts/foot.php' ?>
+<?php require '../layouts-index/foot.php' ?>
