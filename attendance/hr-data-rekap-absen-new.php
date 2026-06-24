@@ -544,7 +544,7 @@
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">Alpa</span></th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">Hadir</span></th>
 											  <th bgcolor="#fafaec">Cepat Pulang</th>
-											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-success kt-badge--sm kt-badge--inline">Cuti</span></th>
+											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-info kt-badge--sm kt-badge--inline">Cuti</span></th>
 											  <th bgcolor="#fafaec">Kerja Hari Libur</th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--primary kt-badge--sm kt-badge--inline">Dinas</span></th>
 											  <th bgcolor="#fafaec">Izin Telat Datang</th>
@@ -801,7 +801,7 @@
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">Alpa</span></th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">Hadir</span></th>
 											  <th bgcolor="#fafaec">Cepat Pulang</th>
-											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-success kt-badge--sm kt-badge--inline">Cuti</span></th>
+											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-info kt-badge--sm kt-badge--inline">Cuti</span></th>
 											  <th bgcolor="#fafaec">&nbsp;</th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--primary kt-badge--sm kt-badge--inline">Dinas</span></th>
 											  <th bgcolor="#fafaec">Izin Telat Datang</th>
@@ -1061,7 +1061,7 @@
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">Alpa</span></th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">Hadir</span></th>
 											  <th bgcolor="#fafaec">Cepat Pulang</th>
-											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-success kt-badge--sm kt-badge--inline">Cuti</span></th>
+											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-info kt-badge--sm kt-badge--inline">Cuti</span></th>
 											  <th bgcolor="#fafaec">&nbsp;</th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--primary kt-badge--sm kt-badge--inline">Dinas</span></th>
 											  <th bgcolor="#fafaec">Izin Telat Datang</th>
@@ -1318,7 +1318,7 @@
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">Alpa</span></th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">Hadir</span></th>
 											  <th bgcolor="#fafaec">Cepat Pulang</th>
-											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-success kt-badge--sm kt-badge--inline">Cuti</span></th>
+											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-info kt-badge--sm kt-badge--inline">Cuti</span></th>
 											  <th bgcolor="#fafaec">&nbsp;</th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--primary kt-badge--sm kt-badge--inline">Dinas</span></th>
 											  <th bgcolor="#fafaec">Izin Telat Datang</th>
@@ -1579,7 +1579,7 @@
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">Alpa</span></th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">Hadir</span></th>
 											  <th bgcolor="#fafaec">Cepat Pulang</th>
-											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-success kt-badge--sm kt-badge--inline">Cuti</span></th>
+											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-info kt-badge--sm kt-badge--inline">Cuti</span></th>
 											  <th bgcolor="#fafaec">&nbsp;</th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--primary kt-badge--sm kt-badge--inline">Dinas</span></th>
 											  <th bgcolor="#fafaec">Izin Telat Datang</th>
@@ -1836,7 +1836,7 @@
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">Alpa</span></th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">Hadir</span></th>
 											  <th bgcolor="#fafaec">Cepat Pulang</th>
-											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-success kt-badge--sm kt-badge--inline">Cuti</span></th>
+											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--unified-info kt-badge--sm kt-badge--inline">Cuti</span></th>
 											  <th bgcolor="#fafaec">&nbsp;</th>
 											  <th bgcolor="#fafaec"><span class="kt-badge kt-badge--primary kt-badge--sm kt-badge--inline">Dinas</span></th>
 											  <th bgcolor="#fafaec">Izin Telat Datang</th>
