@@ -178,7 +178,7 @@
                   <div class="kt-portlet__body">
 										<ul class="nav nav-pills nav-fill" role="tablist">
 											<li class="nav-item dropdown">
-													<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="background:#ef5325 !important; color:#fff !important">2019</a>
+													<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="background:#0e62ae !important; color:#fff !important">2026</a>
 													<div class="dropdown-menu">
 														<a class="dropdown-item" data-toggle="tab" href="#">2018</a>
 														<a class="dropdown-item" data-toggle="tab" href="#">2017</a>
@@ -201,13 +201,13 @@
 													<a class="nav-link" data-toggle="tab" href="#kt_tabs_3_1">Mei</a>
 												</li>
 												<li class="nav-item">
-													<a class="nav-link" data-toggle="tab" href="#kt_tabs_3_1">Juni</a>
+													<a class="nav-link  active" data-toggle="tab" href="#kt_tabs_3_1">Juni</a>
 												</li>
 												<li class="nav-item">
 													<a class="nav-link" data-toggle="tab" href="#kt_tabs_3_1">Juli</a>
 												</li>
 												<li class="nav-item">
-													<a class="nav-link active" data-toggle="tab" href="#kt_tabs_3_1">Agustus</a>
+													<a class="nav-link" data-toggle="tab" href="#kt_tabs_3_1">Agustus</a>
 												</li>
 												<li class="nav-item">
 													<a class="nav-link" data-toggle="tab" href="#kt_tabs_3_1">September</a>
@@ -266,37 +266,37 @@
 											  <th width="1%" bgcolor="#f7fcff">31</th>
 								          </tr>
 											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">K</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Jumat" data-html="true">J</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sabtu" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">K</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Jumat" data-html="true">J</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sabtu" data-html="true">S</span></th>
 											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline"  data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Minggu" data-html="true">M</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">K</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Jumat" data-html="true">J</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sabtu" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">K</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Jumat" data-html="true">J</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sabtu" data-html="true">S</span></th>
 											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline"  data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Minggu" data-html="true">M</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">K</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Jumat" data-html="true">J</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sabtu" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">K</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Jumat" data-html="true">J</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sabtu" data-html="true">S</span></th>
 											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline"  data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Minggu" data-html="true">M</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">K</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Jumat" data-html="true">J</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sabtu" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamis" data-html="true">K</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Jumat" data-html="true">J</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sabtu" data-html="true">S</span></th>
 											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--danger kt-badge--sm kt-badge--inline"  data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Minggu" data-html="true">M</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
-											  <th width="1%" bgcolor="#f7fcff"><span class="kt-badge kt-badge--success kt-badge--sm kt-badge--inline" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Senin" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Selasa" data-html="true">S</span></th>
+											  <th width="1%" bgcolor="#f7fcff"><span class="btn btn-label-brand btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Rabu" data-html="true">R</span></th>
 										  </tr>
 										</thead>
 										<tbody>
