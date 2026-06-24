@@ -496,7 +496,7 @@
 									<div class="kt-widget__section">
 										<div class="kt-widget__blog">
 											<i class="fa fa-clock"></i>
-											<a href="#" class="kt-widget__value kt-font-brand">10 Februari 2023 - 20:07:00 WITA</a>
+											<a href="#" class="kt-widget__value kt-font-brand">10 Februari 2026 - 20:07:00 WITA</a>
 										</div>
 									</div>
 									<div class="kt-widget__section">
