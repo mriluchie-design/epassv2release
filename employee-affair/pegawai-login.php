@@ -246,13 +246,13 @@
 
 																<div class="form-group row">
 						<div class="col-lg-3">
-                          <label>Email Kantor :</label>
+                          <label>No. Handphone :</label>
                           <div class="form-group">
 																							<div class="input-group email">
 																								<input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx" disabled>
 																								<div class="input-group-append">
 																									<span class="input-group-text">
-																										<i class="la la-envelope"></i>
+																										<i class="fa fa-mobile-alt"></i>
 																									</span>
 																								</div>
 																							</div>

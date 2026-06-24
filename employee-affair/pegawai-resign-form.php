@@ -13,10 +13,21 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Form Resign Pegawai
+											Form
 									</h3>
 
+								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Resign Pegawai</span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+
+										</form>
+									</div>
+
+
 								</div>
+								
 								<div class="kt-subheader__toolbar">
 									<div class="dropdown dropdown-inline" data-placement="left">
 											<a href="pegawai-resign.php" class="btn btn-label-brand btn-sm" data-toggle="dropdown" onclick="goBack()">
@@ -160,21 +171,23 @@ function goBack() {
                       <div class="form-group row">
                        <div class="col-lg-4">
                           <label>Cari Pegawai :</label>
-                          <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000000001 - Muhammad Nasrullah, S.Kom</option>
+                          <select data-size="7" data-live-search="true" class="form-control kt-selectpicker" id="tipe">
+					 															<optgroup label="Direksi" class="a">
+					 																<option value="AK"selected >Muhammad Nasrullah, S.Kom</option>
 					 															</optgroup>
-					 															<optgroup label="Umum">
-																					<option value="HI">000000003 - Deddy Rafsanjani, S.Sos</option>
+					 															
+																				<optgroup label="Keuangan dan Asset" class="a">
+					 																<option value="HI">Oklan Zulkifli, SE</option>
 					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000000002 - Oklan Zulkifli, SE</option>
+																				<optgroup label="Operasional" class="a">
+					 																<option value="HI">Deddy Rafsanjani, S.Sos</option>
+					 																<option value="HI">Nursiah, S.Kom</option>
 					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000000004 - Nursiah, S.Kom</option>
+																				<optgroup label="Teknologi dan Riset" class="a">
+					 																<option value="HI">Muhammad Ramadhan Lerrick, ST</option>
 					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000000005 - Muhammad Ramadhan Lerrick, ST</option>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama" class="a">
+					 																<option value="HI">Muhammad Ramadhan Lerrick, ST</option>
 					 															</optgroup>
 
 					 														</select>

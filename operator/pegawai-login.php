@@ -251,7 +251,7 @@
 																								<input type="text" class="form-control form-control-sm" placeholder="+62822********" disabled>
 																								<div class="input-group-append">
 																									<span class="input-group-text">
-																										<i class="la la-mobile"></i>
+																										<i class="fa fa-mobile-alt"></i>
 																									</span>
 																								</div>
 																							</div>
