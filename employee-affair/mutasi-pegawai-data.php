@@ -171,7 +171,6 @@
 								  <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="2" selected="">Tetap</option>
                                       <option value="2">Kontrak</option>
-                                      <option value="2">Honor</option>
                                   </select>
                              
                             </div>
@@ -416,7 +415,7 @@
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-brand btn-sm">Pusat</button></td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-success btn-sm">Tetap</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td nowrap="nowrap" style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:left">Umum dan Kepegawaian</td>
 												<td nowrap="nowrap" wstyle="text-align:left">Staff Administrasi Kepegawaian</td>
@@ -467,7 +466,7 @@
 													</a></td>
 												<td style="text-align:left" nowrap>Oklan Zulkifli, SE</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-brand btn-sm">Pusat</button></td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-brand btn-sm">Kontrak</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td nowrap="nowrap" style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:left">Hukum dan Humas</td>
 												<td nowrap="nowrap" wstyle="text-align:left">Staff Administrasi Hukum</td>
@@ -516,7 +515,7 @@
 													</a></td>
 												<td style="text-align:left" nowrap>Deddy Rafsanjani, S.Sos</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Nama Cabang A">Cabang</button></td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Honor</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan dan Asset</td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan</td>
 												<td nowrap="nowrap" wstyle="text-align:left">Staff Administrasi Keuangan</td>
@@ -563,7 +562,7 @@
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Ramadhan Lerrick, ST</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Nama Cabang B">Cabang</button></td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-success btn-sm">Tetap</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan dan Asset</td>
 												<td nowrap="nowrap" style="text-align:left">Asset</td>
 												<td nowrap="nowrap" wstyle="text-align:left">Staff Administrasi Asset</td>
