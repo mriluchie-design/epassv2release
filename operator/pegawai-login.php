@@ -229,9 +229,9 @@
 					<div class="kt-portlet kt-portlet--height-fluid-full">
 						<div class="kt-portlet__body">
 							<div class="row">
-										<div class="col-lg-12">
-                <div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-				<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Login Aplikasi</div><br>
+										<div class="col-lg-6">
+                <div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+				<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Login</div><br>
 
                     <div class="kt-portlet__body">
                       <div class="row">
@@ -244,24 +244,24 @@
 																
 
 																<div class="form-group row">
-						<div class="col-lg-3">
-                          <label>Email Kantor :</label>
+						<div class="col-lg-6">
+                          <label>No. Handphone :</label>
                           <div class="form-group">
 																							<div class="input-group email">
-																								<input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx">
+																								<input type="text" class="form-control form-control-sm" placeholder="+62822********" disabled>
 																								<div class="input-group-append">
 																									<span class="input-group-text">
-																										<i class="la la-envelope"></i>
+																										<i class="la la-mobile"></i>
 																									</span>
 																								</div>
 																							</div>
 																						</div>
                         </div>
-                       <div class="col-lg-3">
+                       <div class="col-lg-6">
                           <label>Email Lupa Password :</label>
                           <div class="form-group">
 																							<div class="input-group email">
-																								<input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx">
+																								<input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx" disabled>
 																								<div class="input-group-append">
 																									<span class="input-group-text">
 																										<i class="la la-envelope"></i>
@@ -270,11 +270,14 @@
 																							</div>
 																						</div>
                         </div>
-						<div class="col-lg-3">
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
                           <label>Password Login :</label>
 						  <div class="form-group">
 																							<div class="input-group pass">
-																								<input type="text" class="form-control form-control-sm" placeholder="*****">
+																								<input type="text" class="form-control form-control-sm" placeholder="*****" disabled>
 																								<div class="input-group-append">
 																									<span class="input-group-text">
 																										<i class="la la-eye-slash"></i>
@@ -284,11 +287,11 @@
 																						</div>
                           
                         </div>
-						<div class="col-lg-3">
+						<div class="col-lg-6">
                           <label>Ulangi Password :</label>
                           <div class="form-group">
 																							<div class="input-group pass">
-																								<input type="text" class="form-control form-control-sm" placeholder="*****">
+																								<input type="text" class="form-control form-control-sm" placeholder="*****" disabled>
 																								<div class="input-group-append">
 																									<span class="input-group-text">
 																										<i class="la la-eye-slash"></i>
@@ -298,10 +301,8 @@
 																						</div>
                         </div>
                         </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-
-
-															</div>
+						
+														</div>
 														</div>
 
                       </div>
@@ -321,6 +322,102 @@
 
 
           </div>
+		  <div class="col-lg-6">
+                <div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+				<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Ubah Data</div><br>
+
+                    <div class="kt-portlet__body">
+                      <div class="row">
+								<div class="col-xl-12">
+									<!--begin::Portlet-->
+										
+										<div class="kt-portlet__body">
+											<div class="kt-section kt-section--first">
+															<div class="kt-section__body">
+																
+
+																<div class="form-group row">
+						<div class="col-lg-6">
+                          <label>No. Handphone :</label>
+                          <div class="form-group">
+																							<div class="input-group email">
+																								<input type="text" class="form-control form-control-sm" placeholder="+62">
+																								<div class="input-group-append">
+																									<span class="input-group-text">
+																										<i class="la la-mobile"></i>
+																									</span>
+																								</div>
+																							</div>
+																						</div>
+                        </div>
+                       <div class="col-lg-6">
+                          <label>Email Lupa Password :</label>
+                          <div class="form-group">
+																							<div class="input-group email">
+																								<input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx">
+																								<div class="input-group-append">
+																									<span class="input-group-text">
+																										<i class="la la-envelope"></i>
+																									</span>
+																								</div>
+																							</div>
+																						</div>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+                          <label>Password Login :</label>
+						  <div class="form-group">
+																							<div class="input-group pass">
+																								<input type="text" class="form-control form-control-sm" placeholder="*****">
+																								<div class="input-group-append">
+																									<span class="input-group-text">
+																										<i class="la la-eye-slash"></i>
+																									</span>
+																								</div>
+																							</div>
+																						</div>
+                          
+                        </div>
+						<div class="col-lg-6">
+                          <label>Ulangi Password :</label>
+                          <div class="form-group">
+																							<div class="input-group pass">
+																								<input type="text" class="form-control form-control-sm" placeholder="*****">
+																								<div class="input-group-append">
+																									<span class="input-group-text">
+																										<i class="la la-eye-slash"></i>
+																									</span>
+																								</div>
+																							</div>
+																						</div>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                        <div class="kt-portlet__foot kt-align-center">
+												<div class="">
+<button type="reset" class="btn btn-secondary btn-sm">Batal</button>
+													<button type="reset" class="btn btn-success btn-sm"><i class="fa fa-check-circle"></i>Simpan</button>
+												</div>
+											</div>
+						</div>
+						
+														</div>
+														</div>
+
+                      </div>
+                  
+							<!--end:: Portlet-->
+										</div>
+
+
+
+								</div>
+
+                    </div>
+
+									</div>
 
 
 
