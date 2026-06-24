@@ -164,7 +164,7 @@
                              
                             </div>
 							
-							<div class="col-lg-1">
+							<div class="col-lg-2">
                                 <label class="">Kantor :</label>
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="2">Pusat</option>

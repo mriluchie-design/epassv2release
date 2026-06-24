@@ -75,6 +75,16 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
+						<div class="col-lg-2">
+                                <label class="">Kantor :</label>
+								  <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2" selected="">Pusat</option>
+                                      <option value="2">Nama Cabang A</option>
+                                      <option value="2">Nama Cabang B</option>
+									  <option value="HI">Keseluruhan</option>
+                                  </select>
+                             
+                            </div>
                             <div class="col-lg-3">
                                 <label>Nama Pegawai :</label>
     	                       <div class="form-group">
@@ -148,16 +158,7 @@
                              
                             </div>
 							
-							<div class="col-lg-2">
-                                <label class="">Kantor :</label>
-								  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">Pusat</option>
-                                      <option value="2">Nama Cabang A</option>
-                                      <option value="2">Nama Cabang B</option>
-									  <option value="HI">Keseluruhan</option>
-                                  </select>
-                             
-                            </div>
+							
 							
 							<div class="col-lg-1">
                                 <label class="">Jenis Kelamin :</label>

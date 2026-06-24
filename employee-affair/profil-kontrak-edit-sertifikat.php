@@ -8,15 +8,20 @@
 	<div class="kt-container  kt-container--fluid ">
 		<div class="kt-subheader__main">
 			<h3 class="kt-subheader__title">
-				<span class="kt-portlet__head-icon">
-					<i class="kt-font-brand flaticon2-list-1"></i>
-				</span>
-				&nbsp;
-				&nbsp;
-				Edit Profil Pegawai Kontrak
-			</h3>
+                    <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
+                    Edit Data Sertifikat 
+                </h3>
+				<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Muhammad Nasrullah</span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
 
-		</div>
+										</form>
+									</div>
+
+
+								</div>
 		<div class="kt-subheader__toolbar">
 			<div class="dropdown dropdown-inline" ddata-placement="left">
 				<a href="pegawai-kontrak-data.php" class="btn btn-label-brand btn-sm">
@@ -256,7 +261,7 @@
 
 											  <th width="5%" bgcolor="#f7fcff">Uraian<br>Sertifikat</th>
 											  <th width="5%" bgcolor="#f7fcff">Dikeluarkan Oleh</th>
-											  <th width="2%" bgcolor="#f7fcff">Tahun<br>Sertifikat</th>
+											  <th width="3%" bgcolor="#f7fcff">Tanggal<br>Sertifikat</th>
 
 											
 											  <th width="3%" bgcolor="#f7fcff" rowspan="2">Upload Sertifikat</th>
