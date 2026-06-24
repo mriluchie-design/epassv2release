@@ -18,7 +18,7 @@
 									<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
 										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
-											Periode : Oktober 2019 </span>
+											Periode : Oktober 2026 </span>
 										<form class="kt-margin-l-20" id="kt_subheader_search_form">
 
 										</form>
@@ -87,7 +87,7 @@
 						                        <div class="col-lg-3">
 						                          <label class="">Tanggal :</label>
 						                          <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="-- Pilih Tanggal --">
+						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2"  placeholder="-- Pilih Tanggal --">
 						                        <div class="input-group-append">
 						                          <span class="input-group-text"><i class="la la-calendar"></i></span>
 						                        </div>
@@ -144,12 +144,12 @@
 									<!--begin:: Widgets/Activity-->
 									<div class="kt-portlet kt-portlet--fit kt-portlet--head-lg kt-portlet--head-overlay kt-portlet--skin-solid kt-portlet--height-fluid">
 										<div class="kt-portlet__head kt-portlet__head--noborder kt-portlet__space-x">
-											<div class="kt-portlet__head-label">
+											<div class="kt-portlet__head-label" style="margin-left:55px;">
 												<h3 class="kt-portlet__head-title">
 													Statistik Kehadiran
 												</h3>
 											</div>
-											<div class="kt-portlet__head-toolbar">
+											<div class="kt-portlet__head-toolbar" style="margin-right:55px;">
 												<a href="#" class="btn btn-label-light btn-sm dropdown-toggle" data-toggle="dropdown">
 													Bulan ini
 												</a>
