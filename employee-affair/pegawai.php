@@ -111,6 +111,7 @@
                                       <option value="5">Operasional</option>
                                       <option value="5">Teknologi dan Riset</option>
                                       <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+									  <option value="HI">Keseluruhan</option>
                                   </select>
                             </div>
 							<div class="col-lg-2">
@@ -127,6 +128,7 @@
                                       <option value="12" >Produksi</option>
                                       <option value="12" >Pengembangan</option>
                                       <option value="12" >Kerjasama</option>
+									  <option value="HI">Keseluruhan</option>
                                   </select>
                             </div>
                             <div class="col-lg-2">
@@ -139,6 +141,7 @@
                                       <option value="2">Direktur Operasional</option>
                                       <option value="2">Direktur Teknologi dan Riset</option>
                                       <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  <option value="HI">Keseluruhan</option>
 									  </optgroup>
                                      
                                   </select>
@@ -151,6 +154,7 @@
                                       <option value="2" selected="">Pusat</option>
                                       <option value="2">Nama Cabang A</option>
                                       <option value="2">Nama Cabang B</option>
+									  <option value="HI">Keseluruhan</option>
                                   </select>
                              
                             </div>
@@ -160,6 +164,7 @@
 								  <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="2" selected="">Pria</option>
                                       <option value="2">Wanita</option>
+									  <option value="HI">Keseluruhan</option>
                                      
                                   </select>
                              
@@ -276,31 +281,7 @@
 																<span style="color:#ed1c24; font-size:20px;" class="kt-nav__link" data-toggle="modal" data-target="#modal_hadir">70</span>
 															</span>
 														</div>
-														<div class="kt-widget17__item">
-															<span class="kt-widget17__subtitle" style="text-align:center">
-																Truck/Tronton/Trailer
-															</span>
-															<span class="kt-widget17__desc" style="text-align:center">
-																<span style="color:#ed1c24; font-size:20px;" class="kt-nav__link" data-toggle="modal" data-target="#modal_hadir">10</span>
-															</span>
-														</div>
 														
-														<div class="kt-widget17__item">
-															<span class="kt-widget17__subtitle" style="text-align:center">
-																Non Sticker
-															</span>
-															<span class="kt-widget17__desc" style="text-align:center">
-																<span style="color:#ed1c24; font-size:20px;" class="kt-nav__link" data-toggle="modal" data-target="#modal_hadir">25</span>
-															</span>
-														</div>
-														<div class="kt-widget17__item">
-															<span class="kt-widget17__subtitle" style="text-align:center">
-																Berakhir
-															</span>
-															<span class="kt-widget17__desc" style="text-align:center">
-																<span style="color:#ed1c24; font-size:20px;" class="kt-nav__link" data-toggle="modal" data-target="#modal_hadir">25</span>
-															</span>
-														</div>
 														
 														
 														

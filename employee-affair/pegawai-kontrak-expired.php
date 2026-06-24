@@ -84,23 +84,25 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-3">
+                            <div class="col-lg-4">
                                 <label>Nama Pegawai :</label>
-    	                        <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000000001 - Muhammad Nasrullah, S.Kom</option>
+    	                        <select data-size="7" data-live-search="true" class="form-control kt-selectpicker" id="tipe">
+					 															<optgroup label="Direksi" class="a">
+					 																<option value="AK"selected >Muhammad Nasrullah, S.Kom</option>
 					 															</optgroup>
-					 															<optgroup label="Umum">
-																					<option value="HI">000000003 - Deddy Rafsanjani, S.Sos</option>
+					 															
+																				<optgroup label="Keuangan dan Asset" class="a">
+					 																<option value="HI">Oklan Zulkifli, SE</option>
 					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000000002 - Oklan Zulkifli, SE</option>
+																				<optgroup label="Operasional" class="a">
+					 																<option value="HI">Deddy Rafsanjani, S.Sos</option>
+					 																<option value="HI">Nursiah, S.Kom</option>
 					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000000004 - Nursiah, S.Kom</option>
+																				<optgroup label="Teknologi dan Riset" class="a">
+					 																<option value="HI">Muhammad Ramadhan Lerrick, ST</option>
 					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000000005 - Muhammad Ramadhan Lerrick, ST</option>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama" class="a">
+					 																<option value="HI">Muhammad Ramadhan Lerrick, ST</option>
 					 															</optgroup>
 
 					 														</select>
@@ -108,32 +110,60 @@
 							
                             <div class="col-lg-2">
                                 <label>Departemen :</label>
-
+								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="2" selected="">Direksi</option>
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Umum</option>
                                       <option value="4">Keuangan dan Asset</option>
                                       <option value="5">Operasional</option>
+                                      <option value="5">Teknologi dan Riset</option>
                                       <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+									  <option value="HI">Keseluruhan</option>
                                   </select>
                             </div>
 							<div class="col-lg-2">
+                                <label>Divisi :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                     
+                                      <option value="3" selected>Direksi</option>
+                                      <option value="4">Umum dan Kepegawaian</option>
+                                      <option value="5">Hukum dan Humas</option>
+                                      <option value="6">Keuangan</option>
+                                      <option value="12">Asset</option>
+                                      <option value="12" >Pengelolaan</option>
+                                      <option value="12" >Produksi</option>
+                                      <option value="12" >Pengembangan</option>
+                                      <option value="12" >Kerjasama</option>
+									  <option value="HI">Keseluruhan</option>
+                                  </select>
+                            </div>
+                            <div class="col-lg-2">
                                 <label class="">Jabatan :</label>
 								  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Dewan Pengawas</option>
-									  <optgroup label="Direksi">
+                                   
+									 <optgroup label="Direksi" class="a">
                                       <option value="2" selected="">Direktur Utama</option>
-                                      <option value="2">Direktur Umum</option>
                                       <option value="2">Direktur Keuangan dan Asset</option>
                                       <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Teknologi dan Riset</option>
                                       <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  <option value="HI">Keseluruhan</option>
 									  </optgroup>
                                      
                                   </select>
-
+                             
                             </div>
-                            
+							<div class="col-lg-2">
+                                <label class="">Kantor :</label>
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Pusat</option>
+                                      <option value="3">Cabang</option>
+                                      
+                                  </select>
+                            </div>
+                            </div>
+                            <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
 
 							<div class="col-lg-2">
                                 <label class="">Tanggal Kontrak :</label>
@@ -153,14 +183,7 @@
 						                        </div>
 						                      </div>
                             </div>
-							<div class="col-lg-1">
-                                <label class="">Kantor :</label>
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Pusat</option>
-                                      <option value="3">Cabang</option>
-                                      
-                                  </select>
-                            </div>
+							
                         </div>
                     </div>
 					<div class="kt-portlet__foot text-center">
