@@ -343,12 +343,13 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff">#</th>
 												<th width="1%" bgcolor="#f7fcff">ID</th>
+												<th width="9%" bgcolor="#f7fcff">Waktu<br />
+												  Pengajuan</th>
 												<th colspan="2" bgcolor="#f7fcff">Pegawai</th>
-												<th bgcolor="#f7fcff">Status Pegawai</th>
 												<th width="15%" bgcolor="#f7fcff">Departemen</th>
 												<th width="5%" bgcolor="#f7fcff">Divisi</th>
+												<th bgcolor="#f7fcff">Status Pegawai</th>
 												<th width="5%" bgcolor="#f7fcff">Kantor</th>
-												<th width="9%" bgcolor="#f7fcff">Waktu<br>Pengajuan</th>
 												<th width="9%" bgcolor="#f7fcff">Tanggal Resign</th>
 												<th width="10%" bgcolor="#f7fcff">Keterangan Resign</th>
 												<th width="2%" bgcolor="#f7fcff">Dibuat Oleh</th>
@@ -360,15 +361,16 @@
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td id="kt_table_1">001RESHRXI2022</td>
+												<td style="text-align:center">12 Oktober 2019<br />
+												  09:00 WITA</td>
 												<td width="4%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="000000000001<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/img/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td nowrap="nowrap" style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:left">Umum dan Kepegawaian</td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-brand btn-sm">Pusat</button></td>
-												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">12 Oktober 2019</td>
 												<td style="text-align:left">Permintaan Sendiri </td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par&lt;hr&gt;Electrical Engineer Supervisor Assistant" data-html="true"> <img src="../assets/media/users/100_10.jpg" alt="image" /> </a></td>
@@ -412,15 +414,16 @@
 											<tr>
 												<td id="kt_table_1">2</td>
 												<td id="kt_table_1">002RESHRXI2022</td>
+												<td style="text-align:center">12 Oktober 2019<br />
+												  09:00 WITA</td>
 												<td width="4%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="000000000001<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_9.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Oklan Zulkifli, SE</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td nowrap="nowrap" style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:left">Hukum dan Humas</td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-brand btn-sm">Pusat</button></td>
-												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">12 Oktober 2019</td>
 												<td style="text-align:left">Permintaan Sendiri </td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par&lt;hr&gt;Electrical Engineer Supervisor Assistant" data-html="true"> <img src="../assets/media/users/100_10.jpg" alt="image" /> </a></td>
@@ -464,15 +467,16 @@
 										  <tr>
 												<td id="kt_table_1">3</td>
 												<td id="kt_table_1">003RESHRXI2022</td>
+												<td style="text-align:center">12 Oktober 2019<br />
+												  09:00 WITA</td>
 												<td width="4%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="000000000001<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_8.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Deddy Rafsanjani, S.Sos</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan dan Asset</td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan</td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Nama Cabang A">Cabang</button></td>
-												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">12 Oktober 2019</td>
 												<td style="text-align:left">Permintaan Sendiri </td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par&lt;hr&gt;Electrical Engineer Supervisor Assistant" data-html="true"> <img src="../assets/media/users/100_10.jpg" alt="image" /> </a></td>
@@ -518,15 +522,16 @@
 										  <tr>
 												<td id="kt_table_1">4</td>
 												<td id="kt_table_1">004RESHRXI2022</td>
+												<td style="text-align:center">12 Oktober 2019<br />
+												  09:00 WITA</td>
 												<td width="4%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="000000000001<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/300_21.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Ramadhan Lerrick, ST</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan dan Asset</td>
 												<td nowrap="nowrap" style="text-align:left">Asset</td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Nama Cabang B">Cabang</button></td>
-												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">12 Oktober 2019</td>
 												<td style="text-align:left">Permintaan Sendiri </td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par&lt;hr&gt;Electrical Engineer Supervisor Assistant" data-html="true"> <img src="../assets/media/users/100_10.jpg" alt="image" /> </a></td>

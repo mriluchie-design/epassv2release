@@ -71,7 +71,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon2-checking"></i>
+													<i class="flaticon-list-1"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
@@ -89,7 +89,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon2-calendar-1"></i>
+													<i class="flaticon-user-ok"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
@@ -107,7 +107,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon-notepad"></i>
+													<i class="flaticon-file-2"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
@@ -125,7 +125,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon-notepad"></i>
+													<i class="flaticon-browser"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
@@ -143,7 +143,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon2-box-1"></i>
+													<i class="flaticon-background"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
@@ -338,7 +338,7 @@ function goBack() {
 										
 
 
-								<div class="col-xl-6">
+								<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -398,9 +398,65 @@ function goBack() {
 
 
 								</div>
-								
+								<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Verifikasi</div><br><br>
+										<div class="kt-portlet__body">
+
+											<!--Begin::Timeline 3 -->
+											<div class="kt-timeline-v2">
+												<div class="kt-timeline-v2__items  kt-padding-top-25 kt-padding-bottom-30">
+													<div class="kt-timeline-v2__item">
+														<span class="kt-timeline-v2__item-time"><span style="color:#0961ae;">15/07/2025</span><br>15:51 WITA</span>
+														<div class="kt-timeline-v2__item-cricle">
+															<i class="fa fa-genderless kt-font-brand"></i>
+														</div>
+
+														<div class="kt-timeline-v2__item-text kt-timeline-v2__item-text--bold">
+															<span class="kt-list-pics kt-list-pics--md"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="000000000001<hr>Muhammad Nasrullah, S.Kom<hr>Direktur Utama" data-html="true">
+														<img src="../assets/img/users/100_15.jpg" alt="image">
+													</a></span> 
+														</div>
+														&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" class="btn btn-sm btn-label-brand">Dibuat</a>
+													</div>
+													<div class="kt-timeline-v2__item">
+														<span class="kt-timeline-v2__item-time"><span style="color:#0961ae;">15/07/2025</span><br>15:51 WITA</span>
+														<div class="kt-timeline-v2__item-cricle">
+															<i class="fa fa-genderless kt-font-success"></i>
+														</div>
+
+														<div class="kt-timeline-v2__item-text kt-timeline-v2__item-text--bold">
+															<span class="kt-list-pics kt-list-pics--md"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="000000000001<hr>Muhammad Nasrullah, S.Kom<hr>Direktur Utama" data-html="true">
+														<img src="../assets/img/users/100_15.jpg" alt="image">
+													</a></span> 
+														</div>
+														&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" class="btn btn-sm btn-label-success">Disetujui</a>
+													</div>
+													<div class="kt-timeline-v2__item">
+														<span class="kt-timeline-v2__item-time"><span style="color:#0961ae;">15/07/2025</span><br>15:51 WITA</span>
+														<div class="kt-timeline-v2__item-cricle">
+															<i class="fa fa-genderless kt-font-success"></i>
+														</div>
+
+														<div class="kt-timeline-v2__item-text kt-timeline-v2__item-text--bold">
+															<span class="kt-list-pics kt-list-pics--md"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="000000000001<hr>Muhammad Nasrullah, S.Kom<hr>Direktur Utama" data-html="true">
+														<img src="../assets/img/users/100_15.jpg" alt="image">
+													</a></span> 
+														</div>
+														&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" class="btn btn-sm btn-label-success">Disetujui</a>
+													</div>
+													
+													
+												</div>
+											</div>
+
+											<!--End::Timeline 3 -->
+										</div>
+									</div>
 								</div>
-								</div>
+
 								
 								
 
@@ -414,6 +470,8 @@ function goBack() {
 									
 										
 														</div>
+													</div>
+													</div>
 													</div>
 								
 
@@ -459,7 +517,7 @@ function goBack() {
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Ramadhan Lerrick, ST</td>
 												<td style="text-align:left;">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline" style="font-size:.955rem; color:#fff; text-transform:italic;">Pusat</span></td>
+												<td style="text-align:center" nowrap><span class="btn btn-label-twitter btn-sm">Pusat</span></td>
 												<td style="text-align:left;">&nbsp;</td>
 												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>
@@ -492,7 +550,7 @@ function goBack() {
 													</a></td>
 												<td style="text-align:left" nowrap>Deddy Rafsanjani, S.Sos</td>
 												<td style="text-align:left" nowrap>Staff Administrasi Keuangan</td>
-												<td style="text-align:center;"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline" style="font-size:.955rem; color:#fff; text-transform:italic;">Pusat</span></td>
+												<td style="text-align:center" nowrap><span class="btn btn-label-twitter btn-sm">Pusat</span></td>
 												<td style="text-align:left;">&nbsp;</td>
 												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>
@@ -525,7 +583,7 @@ function goBack() {
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
 												<td style="text-align:left;">Direktur Utama</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline" style="font-size:.955rem; color:#fff; text-transform:italic;">Pusat</span></td>
+												<td style="text-align:center" nowrap><span class="btn btn-label-twitter btn-sm">Pusat</span></td>
 												<td style="text-align:left;">&nbsp;</td>
 												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>

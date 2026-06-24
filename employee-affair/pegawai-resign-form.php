@@ -245,13 +245,13 @@ function goBack() {
 						<div class="col-lg-2">
                           <label class="">No. Surat Pemberhentian :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="" >
+                        <input type="text" class="form-control form-control-sm" placeholder="Auto" disabled>
                       </div>
                         </div>
 						<div class="col-lg-2">
                           <label class="">No. Surat Pengalaman Kerja :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="" >
+                        <input type="text" class="form-control form-control-sm" placeholder="Auto" disabled>
                       </div>
                         </div>
 						<div class="col-lg-2">
@@ -287,7 +287,7 @@ function goBack() {
                       </div>
                         </div>
 						<div class="col-lg-2">
-                          <label class="">Tanggal Efektif :</label>
+                          <label class="">Tanggal Efektif Resign :</label>
                           <div class="form-group">
                          <div class="input-group date">
 													<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
@@ -350,7 +350,7 @@ function goBack() {
 																							<tfoot>
 																								<tr>
 																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																										<button type="button" class="btn btn-label-brand float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus-circle"></i> Tambah Data</button>
 																									</td>
 																								</tr>
 																							</tfoot>
@@ -387,7 +387,7 @@ function goBack() {
 											<div class="kt-portlet__content">
 											<div class="form-group row">
 						<div id="kt_repeater_2">
-												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_2">
+												<table class="table table-striped- table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
 																								  <td width="10px" bgcolor="#f7fcff">No</td>
@@ -399,20 +399,68 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:left"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Direktur Utama</option>
-                              <option value="HI">Direktur Keuangan</option>
-                              <option value="AR">Arsip</option>
-                            </select></td>
+                  
+									 <optgroup label="Direksi" class="a">
+                                      <option value="2" selected="">Yth, Direktur Utama</option>
+                                      <option value="2">Yth, Direktur Keuangan</option>
+                                      <option value="2">Yth, Direktur Operasional</option>
+                                      <option value="2">Yth, Direktur Teknologi & Riset</option>
+                                      <option value="2">Yth, Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     <optgroup label="Lainnya" class="a">
+ <option value="2">Pertinggal</option>
+</optgroup>
+<option data-content="&lt;a href='#' class='btn btn-sm m-button-add'&gt;&lt;i class='fa fa-plus-circle'&gt;&lt;/i&gt; Tambah Data&lt;/a&gt;" class="select-option-add" value="add"></option>
+                                  </select></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
 																								</tr>
-																								
+																								<tr>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:left"><select class="form-control kt-selectpicker" data-live-search="true">
+                  
+									 <optgroup label="Direksi" class="a">
+                                      <option value="2">Yth, Direktur Utama</option>
+                                      <option value="2"  selected>Yth, Direktur Keuangan</option>
+                                      <option value="2">Yth, Direktur Operasional</option>
+                                      <option value="2">Yth, Direktur Teknologi & Riset</option>
+                                      <option value="2">Yth, Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     <optgroup label="Lainnya" class="a">
+ <option value="2">Pertinggal</option>
+</optgroup>
+<option data-content="&lt;a href='#' class='btn btn-sm m-button-add'&gt;&lt;i class='fa fa-plus-circle'&gt;&lt;/i&gt; Tambah Data&lt;/a&gt;" class="select-option-add" value="add"></option>
+                                  </select></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:left"><select class="form-control kt-selectpicker" data-live-search="true">
+                  
+									 <optgroup label="Direksi" class="a">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Keuangan</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Teknologi & Riset</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     <optgroup label="Lainnya" class="a">
+ <option value="2" selected="">Pertinggal</option>
+</optgroup>
+<option data-content="&lt;a href='#' class='btn btn-sm m-button-add'&gt;&lt;i class='fa fa-plus-circle'&gt;&lt;/i&gt; Tambah Data&lt;/a&gt;" class="select-option-add" value="add"></option>
+                                  </select></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
 																							</tbody>
 																							<tfoot>
 																								<tr>
 																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																										<button type="button" class="btn btn-label-brand float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus-circle"></i> Tambah Data</button>
 																									</td>
 																								</tr>
 																							</tfoot>
@@ -539,7 +587,7 @@ function goBack() {
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Ramadhan Lerrick, ST</td>
 												<td style="text-align:left;">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-label-success btn-sm">Pusat</button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-label-twitter btn-sm">Pusat</button></td>
 												<td style="text-align:left;">&nbsp;</td>
 												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>
@@ -572,7 +620,7 @@ function goBack() {
 													</a></td>
 												<td style="text-align:left" nowrap>Deddy Rafsanjani, S.Sos</td>
 												<td style="text-align:left" nowrap>Staff Administrasi Keuangan</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-label-success btn-sm">Pusat</button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-label-twitter btn-sm">Pusat</button></td>
 												<td style="text-align:left;">&nbsp;</td>
 												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>
@@ -605,7 +653,7 @@ function goBack() {
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
 												<td style="text-align:left;">Direktur Utama</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-label-success btn-sm">Pusat</button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-label-twitter btn-sm">Pusat</button></td>
 												<td style="text-align:left;">&nbsp;</td>
 												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>
@@ -1332,6 +1380,7 @@ function goBack() {
 													</div>
 													</div>
 													</div>
+													</div>
 
 													<!--end: Form Wizard Step 4-->
 
@@ -1342,7 +1391,7 @@ function goBack() {
 															Kembali
 														</button>
 														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
-															Kirim
+															Simpan
 														</button>
 														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
 															Selanjutnya
