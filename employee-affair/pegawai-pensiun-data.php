@@ -331,7 +331,7 @@
 												<td nowrap="nowrap" style="text-align:left">Keuangan dan Asset</td>
 												<td nowrap="nowrap" style="text-align:left">Asset</td>
 												<td style="text-align:left">Staff Administrasi Asset</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-success btn-sm">Tetap</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-brand btn-sm">Pusat</button></td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">12 Oktober 2019</td>
@@ -382,7 +382,7 @@
 												<td nowrap="nowrap" style="text-align:left">Keuangan dan Asset</td>
 												<td nowrap="nowrap" style="text-align:left">Asset</td>
 												<td style="text-align:left">Staff Administrasi Asset</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-brand btn-sm">Kontrak</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Nama Cabang A">Cabang</button></td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">12 Oktober 2019</td>
@@ -433,7 +433,7 @@
 												<td nowrap="nowrap" style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:left">Umum dan Kepegawaian</td>
 												<td style="text-align:left">Staff Administrasi Umum dan Kepegawaian</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Honor</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Nama Cabang B">Cabang</button></td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">12 Oktober 2019</td>
@@ -484,7 +484,7 @@
 												<td nowrap="nowrap" style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:left">Hukum dan Humas</td>
 												<td style="text-align:left">Staff Hukum dan Humas</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-success btn-sm">Tetap</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-brand btn-sm">Pusat</button></td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center">12 Oktober 2019</td>

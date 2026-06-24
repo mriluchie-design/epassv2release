@@ -364,7 +364,7 @@
 														<img src="../assets/img/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-brand btn-sm">Kontrak</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td nowrap="nowrap" style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:left">Umum dan Kepegawaian</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-brand btn-sm">Pusat</button></td>
@@ -416,7 +416,7 @@
 														<img src="../assets/media/users/100_9.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Oklan Zulkifli, SE</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-success btn-sm">Tetap</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td nowrap="nowrap" style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:left">Hukum dan Humas</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-brand btn-sm">Pusat</button></td>
@@ -468,7 +468,7 @@
 														<img src="../assets/media/users/100_8.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Deddy Rafsanjani, S.Sos</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Honor</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-danger btn-sm">Kontrak</button></td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan dan Asset</td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Nama Cabang A">Cabang</button></td>
@@ -522,7 +522,7 @@
 														<img src="../assets/media/users/300_21.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Ramadhan Lerrick, ST</td>
-												<td style="text-align:center"><button type="button" class="btn btn-label-success btn-sm">Tetap</button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-label-twitter btn-sm">Tetap</button></td>
 												<td nowrap="nowrap" style="text-align:left">Keuangan dan Asset</td>
 												<td nowrap="nowrap" style="text-align:left">Asset</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Nama Cabang B">Cabang</button></td>
