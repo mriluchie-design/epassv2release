@@ -75,9 +75,9 @@ function goBack() {
 
 							<div class="tab-content" style="background:#f2f3f8;overflow:scroll;height:800px">
 				<div class="tab-pane active" id="kt_tabs_1_1" role="tabpanel">
-					<div class="bg-white w-50 ml-auto mr-auto mt-3">
+					<div class="bg-white w-60 ml-auto mr-auto mt-3">
 						
-						<table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:150px; text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
+						<table align="center" border="0" cellpadding="1" style="width: 700px; position:relative; top:150px; text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
   <tr>
     <td colspan="7" style="text-align: center"><u><b>SURAT PENGALAMAN KERJA</b></u></td>
   </tr>
@@ -85,6 +85,9 @@ function goBack() {
     <td colspan="7" style="text-align: center">Nomor : [Nomor-Surat-Pengalaman-Kerja]/SURAT-PENGALAMAN/[Bulan]/[Tahun]</td>
   </tr>
   <tr>
+    <td colspan="7" style="text-align: right">&nbsp;</td>
+  </tr>
+<tr>
     <td colspan="7" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
@@ -116,7 +119,9 @@ function goBack() {
   </tr>
 </table>
 <br>
-<table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:150px; text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
+<br>
+<br>
+<table align="center" border="0" cellpadding="1" style="width: 700px; position:relative; top:150px; text-align:justify; line-height:2; font-family: Roboto; font-size: 13px;">
   <tr>
     <td colspan="8" style="text-align: justify">Adalah benar pernah bekerja pada <strong>[Nama-Perusahaan]</strong> terhitung sejak tanggal <strong>[Tanggal-Masuk-Kerja]</strong> hingga <strong>[Tanggal-Efektif]</strong> dengan jabatan sebagai <strong>[Jabatan-Saat-ini]</strong>. Selama bekerja di perusahaan kami, yang bersangkutan telah bekerja dengan baik dalam mengerjakan tugas dan tanggung jawabnya serta tidak pernah terlibat dalam tindakan yang merugikan perusahaan.</td>
   </tr>
@@ -128,7 +133,7 @@ function goBack() {
     <td width="407" colspan="4">&nbsp;</td>
   </tr>
 </table>
-<table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:150px;text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
+<table align="center" border="0" cellpadding="1" style="width: 700px; position:relative; top:150px;text-align:justify; line-height:1.5; font-family: Roboto; font-size: 13px;">
   <tr>
     <td colspan="8" style="text-align: justify">Demikian surat keterangan ini dibuat dengan sebenar-benarnya untuk dipergunakan sebagaimana mestinya.</td>
   </tr>
@@ -144,7 +149,7 @@ function goBack() {
 
 								
 
-   <table align="center" border="0" cellpadding="1" style="width: 600px; position:relative; top:150px;text-align:left; line-height:1.5; font-family: Roboto; font-size: 13px;">
+   <table align="center" border="0" cellpadding="1" style="width: 700px;  margin-top:100px; position:relative; top:150px; text-align:left; line-height:1.5; font-family: Roboto; font-size: 13px;">
 							<tr>
 							  <td width="3" valign="top">&nbsp;</td>
 							  <td width="3" valign="top">&nbsp;</td>
@@ -156,53 +161,29 @@ function goBack() {
 							  <td colspan="4" valign="top">&nbsp;</td>
   </tr>
 							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td width="262"><p>&nbsp;</p></td>
+							  <td colspan="8" valign="top"><p>Tembusan :</p></td>
 							  <td width="6" >&nbsp;</td>
 							  <td width="31" rowspan="3" style="text-align: right"></td>
-							  <td width="217" style="text-align: left">[Tempat, Tanggal Bulan Tahun]</td>
+							  <td width="217" style="text-align: left">[Tempat, Tanggal/Bulan/Tahun]</td>
   </tr>
 							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
+							  <td valign="top">1</td>
+							  <td colspan="7" valign="top">Yth, Direktur Utama</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top" style="text-align: left">[Nama-Perusahaan]</td>
   </tr>
 							
+  </tr>
 							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
+							  <td valign="top">2.</td>
+							  <td colspan="7" valign="top">Yth, Direktur Operasional</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top" style="text-align: left">&nbsp;</td>
   </tr>
 							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
+							  <td valign="top">3.</td>
+							  <td colspan="7" valign="top">Arsip</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
@@ -215,7 +196,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
+							  <td width="562" valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top" style="text-align: left">&nbsp;</td>
@@ -231,7 +212,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top" style="text-align: left">[Nama-Pejabat-Penandatangan]</td>
+							  <td valign="top" style="text-align: left"><u><b>[Nama-Pejabat]</b></u></td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -244,26 +225,10 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top" style="text-align: left">[Jabatan-Pejabat-Penandatangan]</td>
+							  <td valign="top" style="text-align: left">[Jabatan-Pejabat]</td>
   </tr>
 							<tr>
 							  <td colspan="11" valign="top">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td colspan="11" valign="top">Tembusan :</td>
-  </tr>
-							<tr>
-							  <td valign="top">1.</td>
-							  <td colspan="10" valign="top">Direktur Utama</td>
-  </tr>
-							<tr>
-							  <td valign="top">2.</td>
-							  <td colspan="10" valign="top">Direktur Umum</td>
-  </tr>
-							
-							<tr>
-							  <td valign="top">3.</td>
-							  <td colspan="10" valign="top">Arsip</td>
   </tr>
 							
 							
@@ -271,7 +236,7 @@ function goBack() {
 							
 							
   </table>
-  <table align="center" class="footnote-1" width="650px" style="margin-top:250px; margin-bottom:20px; padding-top:5px; padding-bottom:20px;">
+  <table align="center" class="footnote-1" width="750px" style="margin-top:250px; margin-bottom:20px; padding-top:5px; padding-bottom:20px;">
         <thead>
             <tr><th></th>
             <th></th>
@@ -293,7 +258,7 @@ function goBack() {
                     </span>
                 </td>
                 <td>&nbsp;</td>
-               <td colspan="2" valign="left" style="text-align: center">
+               <td colspan="2" valign="left" style="text-align: left">
                     <span style="text-align:justify; line-height:1.5; font-family: Roboto; font-size: 11px; "><i>Sesuai
                             dengan ketentuan Peraturan Perusahaan yang berlaku, Perusahaan mengatur
                             bahwa

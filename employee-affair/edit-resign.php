@@ -8,13 +8,18 @@
 							<div class="kt-container  kt-container--fluid ">
 								<div class="kt-subheader__main">
 									<h3 class="kt-subheader__title">
-										<span class="kt-portlet__head-icon">
-											<i class="kt-font-brand flaticon2-list-1"></i>
-										</span>
-										&nbsp;
-										&nbsp;
-											Form Edit Resign Pegawai
-									</h3>
+                    <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
+                    Edit
+                </h3>
+				<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Resign Pegawai</span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+
+										</form>
+									</div>
+
 
 								</div>
 								<div class="kt-subheader__toolbar">
@@ -98,6 +103,24 @@ function goBack() {
 												</div>
 											</div>
 										</div>
+<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-notepad"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Surat
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Resign Pegawai
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													3
+												</div>
+											</div>
+										</div>
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
@@ -112,7 +135,7 @@ function goBack() {
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
-													3
+													4
 												</div>
 											</div>
 										</div>
@@ -130,7 +153,7 @@ function goBack() {
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
-													4
+													5
 												</div>
 											</div>
 										</div>

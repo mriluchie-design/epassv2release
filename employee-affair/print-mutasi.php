@@ -8,13 +8,18 @@
 							<div class="kt-container  kt-container--fluid ">
 								<div class="kt-subheader__main">
 									<h3 class="kt-subheader__title">
-										<span class="kt-portlet__head-icon">
-											<i class="kt-font-brand flaticon2-list-1"></i>
-										</span>
-										&nbsp;
-										&nbsp;
-											Print Mutasi Pegawai
-									</h3>
+                    <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
+                    Print
+                </h3>
+				<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Mutasi Pegawai</span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+
+										</form>
+									</div>
+
 
 								</div>
 								<div class="kt-subheader__toolbar">
@@ -91,7 +96,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon-browser"></i>
+													<i class="flaticon-file-2"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
@@ -109,7 +114,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon-list-1"></i>
+													<i class="fa fa-file-pdf"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
