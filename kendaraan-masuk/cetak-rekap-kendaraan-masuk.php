@@ -77,9 +77,9 @@ function goBack() {
 
 							<div class="tab-content" style="background:#f2f3f8;overflow:scroll; padding-bottom">
 							<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
-								<div class="bg-white w-100 ml-auto mr-auto">
+								<div class="bg-white w-100 ml-auto mr-auto" height="auto">
 	
-<table class="table-checkable" cellpadding="3" align="left" width="550" style="line-height:1.5; margin-left:63px; position:relative;top:70px; font-family: Tahoma; font-size: 12px;">
+<table class="table-checkable" cellpadding="3" align="left" width="550" style="line-height:1.5; margin-left:63px; margin-top: 100px; margin-bottom:30px; font-family: Tahoma; font-size: 12px;">
    <tr>
     <td width="2%" style="border-bottom:1px solid #ccc;"><b>Cabang</b></td>
     <td width="1%" style="text-align: center; border-bottom:1px solid #ccc;">:</td>
@@ -106,7 +106,7 @@ function goBack() {
     <td width="20%" style="border-bottom:1px solid #ccc;">Keseluruhan</td>
   </tr>
 </table>
-		<table class="table-checkable" align="center" width="1450" border="0" style="line-height:1.5; position:relative;top:90px; font-family: Roboto; font-size: 12px;" id="kt_table_1">
+		<table class="table-checkable" align="center" width="1450" border="0" style="line-height:1.5; font-family: Roboto; font-size: 12px;" id="kt_table_1">
   <tr>
     <td colspan="7" style="text-align: center"><strong><U>DATA REKAP KENDARAAN MASUK<U></strong></td>
   </tr>
@@ -116,7 +116,7 @@ function goBack() {
     <td colspan="7">&nbsp;</td>
   </tr>
 </table>				
-<table align="center" border="1" cellpadding="5" style="width: 1450px; position:relative;top:90px; text-align:justify; line-height:1.5; font-family: Tahoma; font-size: 12px;">
+<table align="center" border="1" cellpadding="5" style="width: 1450px; text-align:justify; line-height:1.5; font-family: Tahoma; font-size: 12px;">
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
@@ -142,7 +142,7 @@ function goBack() {
 										</thead>
 										<tbody>
 											<tr>
-												<td id="kt_table_1">1</td>
+												<td id="kt_table_1" style="text-align:right">1</td>
 												<td style="text-align:center" nowrap>Makassar</td>
 												<td nowrap="nowrap" style="text-align:center">-</td>
 												<td style="text-align:center" nowrap>12321355123123211</td>
@@ -161,7 +161,7 @@ function goBack() {
 												<td style="text-align:center" nowrap><a href="#" class="" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true"><img style="width:130px; height:80px;" src="../assets/media/kendaraan/masuk-mobil-1a.png" alt="image" /></a></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">2</td>
+												<td id="kt_table_1" style="text-align:right">2</td>
 												<td nowrap="nowrap" style="text-align:center">Makassar</td>
 												<td nowrap="nowrap" style="text-align:center">-</td>
 												<td nowrap="nowrap" style="text-align:center">12321355123123212</td>
@@ -179,7 +179,7 @@ function goBack() {
 										  </tr>
 
 <tr>
-												<td id="kt_table_1">3</td>
+												<td id="kt_table_1" style="text-align:right">3</td>
 												<td style="text-align:center" nowrap>Makassar</td>
 												<td nowrap="nowrap" style="text-align:center">12321355123123211
 												  <hr />
@@ -200,7 +200,7 @@ function goBack() {
 												<td style="text-align:center" nowrap><a href="#" class="" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true"><img style="width:130px; height:80px;" src="../assets/media/kendaraan/foto-motor-masuk-2.png" alt="image" /></a></td>
 										  </tr>
 <tr>
-  <td id="kt_table_4">4</td>
+  <td id="kt_table_4" style="text-align:right">4</td>
   <td style="text-align:center" nowrap="nowrap">Makassar</td>
   <td nowrap="nowrap" style="text-align:center">12321355123123212
     <hr />
